@@ -4,14 +4,16 @@
 
 #ifndef HELLO_1_MYPAIR_H
 #define HELLO_1_MYPAIR_H
+#include <iostream>
+using namespace std;
 
 template <class T>
-class myPair {
+class MyPair {
 private:
     T first;
     T second;
 public:
-    myPair(T a, T b ){
+    MyPair(T a, T b ){
         first = a;
         second = b;
     }
