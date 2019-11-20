@@ -2,8 +2,8 @@
 // Created by yindd on 2019/11/17.
 //
 
-#include "myPair.h"
+#include "../head/myPair.h"
 template <class T>
-T myPair<T>::getMax() {
+T MyPair<T>::getMax() {
     return first > second ? first : second;
 }
