@@ -18,7 +18,9 @@ public:
         second = b;
     }
 
-    T getMax();
+    T getMax(){
+        return first > second ? first : second;
+    }
 
 };
 

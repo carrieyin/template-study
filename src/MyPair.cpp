@@ -3,7 +3,7 @@
 //
 
 #include "../head/myPair.h"
-template <class T>
-T MyPair<T>::getMax() {
-    return first > second ? first : second;
-}
+//template <class T>
+//T MyPair<T>::getMax() {
+//    return first > second ? first : second;
+//}
