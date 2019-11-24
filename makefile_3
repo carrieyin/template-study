@@ -16,3 +16,4 @@ $(OBJECT):%.o:%.cpp
 all:
 	echo $(CPP)
 	-rm main.exe src/*.o
+

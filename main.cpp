@@ -1,6 +1,6 @@
 #include <iostream>
-#include "Head/HelloWorld.h"
-#include "Head/Test.h"
+#include "head/HelloWorld.h"
+#include "head/Test.h"
 #include "head/MyPair.h"
 
 int main() {

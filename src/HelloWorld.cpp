@@ -2,7 +2,7 @@
 // Created by yindd on 2019/11/16.
 //
 
-#include "HelloWorld.h"
+#include "../head/HelloWorld.h"
 
 //
 string HelloWord::print() {
